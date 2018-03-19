@@ -1,0 +1,8 @@
+C:\Study\CS\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Study\CS\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Study\CS\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Study\CS\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Study\CS\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Study\CS\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Study\CS\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Study\CS\Lab1\Lab1\bin\Debug\ICSharpCode.SharpZipLib.dll
