@@ -1,0 +1,7 @@
+C:\Study\CS\Lab2\Part1\Part1\bin\Debug\Part1.exe.config
+C:\Study\CS\Lab2\Part1\Part1\bin\Debug\Part1.exe
+C:\Study\CS\Lab2\Part1\Part1\bin\Debug\Part1.pdb
+C:\Study\CS\Lab2\Part1\Part1\obj\Debug\Part1.csprojResolveAssemblyReference.cache
+C:\Study\CS\Lab2\Part1\Part1\obj\Debug\Part1.csproj.CoreCompileInputs.cache
+C:\Study\CS\Lab2\Part1\Part1\obj\Debug\Part1.exe
+C:\Study\CS\Lab2\Part1\Part1\obj\Debug\Part1.pdb
